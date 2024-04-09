@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.intro{ margin:50px 0px 0px 0px;}
+
+h4{ font-variant:small-caps;
+color:#07294D;
+font-weight:550;
+margin-bottom:15px;}
+
+h4 span{ border-bottom:3px solid #FEC601;}

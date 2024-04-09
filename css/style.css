@@ -1,0 +1,570 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sitemap{ margin-top: 50px;}
+
+.first-header {
+	background-color: #07294D;
+	padding: 10px 0px 0px 0px;
+}
+
+.last-span{text-align: right;}
+
+.inner-text ul {
+	padding: 0px;
+}
+.inner-text li {
+	color: #D7D7D7;
+	list-style-type: none;
+	font-weight: 550;
+	font-size: 15px;
+}
+.inner-text li:nth-child(2) {
+	padding-left: 15px;
+}
+.timing p {
+	color: #DCDCDC;
+	padding-left: 170px;
+}
+.institute img {
+	margin: 25px 0 0 0;
+}
+p {
+	font-size: 15px;
+	font-weight: 550;
+}
+.support img {
+	margin: 10px 0px 0px 0px;
+}
+.inner-head img {
+	margin: 40px 0px 0px 0px;
+}
+.inr-txt p {
+	color: #8AA2BF;
+	margin: 35px 85px 0px 0px;
+}
+.inr-txt p span {
+	color: #07294D;
+	font-weight: bold;
+	margin: 0px 0px 0px 2px;
+}
+.button a {
+	background-color: #FFC600;
+	padding: 15px 35px 15px 35px;
+	color: #07294D;
+	font-weight: bold;
+	text-decoration: none;
+	border-radius: 4px;
+	transition: all ease-in-out .3s;
+}
+.button a:hover {
+	background-color: #07294D;
+	color: #FFC600;
+}
+.button p {
+	margin: 40px 0 0 0;
+}
+nav {
+	border-top: 1px solid #A7A7A7;
+	margin-top: 100px;
+	clear: both;
+}
+.navigation {
+	padding: 0px;
+	margin: 20px 0px 20px 0px;
+}
+.navigation li {
+	list-style-type: none;
+	display: inline;
+	padding: 15px 30px 15px 35px;
+}
+.navigation li a {
+	color: #07294D;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 14px;
+	transition: all ease-in-out .5s;
+}
+.navigation li a:hover {
+	color: #DBC600;
+}
+nav {
+	border-bottom: 1px solid #A7A7A7;
+}
+.section h4 {
+	margin: 40px 0px 0px 0px;
+	font-weight: 650;
+	color: #07294D;
+	font-size: 22px;
+}
+.section h4 span {
+	border-bottom: 3px solid #FFC600;
+	border-radius: 100px 0px 0px;
+	padding-bottom: 5px;
+}
+.head {
+	margin: 40px 0px 0px 0px;
+	font-weight: 800;
+	font-size: 35px;
+}
+.about p {
+	margin: 30px 0px 20px 0px;
+	color: #6C6C6C;
+}
+.our-courses {
+	background-color: #EDF0F2;
+	clear: both;
+}
+.our-courses h3 span {
+	color: #07294D;
+	font-weight: 650;
+	font-size: 24px;
+}
+.our-courses h3 span span {
+	border-bottom: 3px solid #FFC600;
+}
+.footer-part {
+	background: #07294D;
+	padding-bottom: 80px;
+}
+.padding-btm {
+	padding-top: 50px;
+}
+.foot-pad img {
+	margin: 40px 0px 0px 90px;
+}
+.foot-text {
+	color: #FFFFFF;
+	margin-top: 20px;
+}
+.sitemap {
+	color: #FFFFFF;
+}
+.sitemap h4 {
+	font-weight:400;
+	margin: 10px 0px 0px 0px;
+}
+.nav-foot ul {
+	padding: 0px;
+	margin: 30px 0px 0px 0px;
+}
+.nav-foot ul li {
+	list-style-type: none;
+	color: #FFC600;
+}
+.nav-foot ul li a {
+	color: #FFFFFF;
+	text-decoration: none;
+	padding-left: 10px;
+	font-weight: 400;
+	transition: 1s;
+}
+.nav-foot ul li a:hover {
+	color: #FFC600;
+	margin-left: 10px;
+}
+.last-foot h4 {
+	margin: 50px 0px 0px 0px;
+	color: #FFFFFF;
+}
+.end-foot ul {
+	padding: 0px;
+	margin: 30px 0px 0px 0px;
+}
+.end-foot ul li i {
+	color: #FFC600;
+	margin-right: 20px;
+}
+.end-foot ul li {
+	list-style-type: none;
+	line-height: 30px;
+}
+.end-foot ul li {
+	margin-left: 10px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: 600;
+}
+.last-aaya {
+	background: #021D3A;
+	padding: 30px 0px 15px 0px;
+}
+.last-aaya p {
+	color: #FFFFFF;
+}
+p span a {
+	font-weight: 700;
+	color: rgba(255,255,255,1.00);
+}
+p span a:hover {
+	text-decoration: none;
+	color: rgba(255,255,255,1.00);
+}
+about-us-color {
+	background: #021D3A;
+}
+.container-fluid {
+	background: url(../images/bg-1.png) right bottom no-repeat;
+	width: 100%;
+	background-size: contain;
+}
+.face:hover {
+	background-color: rgba(0,84,255,1.00);
+}
+.face {
+	transition: all ease-in-out .5s;
+	margin-left:60px;
+	border: 1px solid #000;
+	border-radius:50%;
+	padding: 10px;
+}
+.fa-angle-up {
+	background: #D8A202;
+	border-radius: 5px;
+	padding: 8px 12px 8px 12px;
+	transition: all ease-out .5s;
+}
+.fa-angle-up:hover {
+	background: #07294D;
+	color: #fff;
+}
+.backtotop {
+	position: fixed;
+	right: 50px;
+	font-size: 25px;
+	color: #fff;
+	bottom: 50px;
+}
+.container ul li {
+	position: relative;
+
+}
+ul li ul {
+	position: absolute;
+	display: none;
+	left: -20px;
+	background: rgba(255,255,255,0.80);
+	padding: 0px;
+	line-height: 40px;
+	right: -20px;
+}
+nav ul li:hover ul {
+	display: block;
+	top: 58px;
+	z-index: 999;
+
+}
+ul li ul li {
+	border-bottom: 1px solid rgba(23,0,61,0.85);
+	padding: 10px;
+}
+ul li ul li:nth-child(3) {
+	border: none;
+}
+.bot li:nth-child(2) {
+	border: none;
+}
+.card:hover {
+	box-shadow: 2px 2px 15px rgba(0,3,73,1.00);
+}
+.card {
+	transition: all ease-in-out .4s ;
+	margin:0px;
+}
+.ml1 {
+	font-weight: 900;
+	font-size: 3.5em;
+}
+.ml1 .letter {
+	display: inline-block;
+	line-height: 1em;
+}
+.ml1 .text-wrapper {
+	position: relative;
+	display: inline-block;
+	padding-top: 0.1em;
+	padding-right: 0.05em;
+	padding-bottom: 0.15em;
+}
+.ml1 .line {
+	opacity: 0;
+	position: absolute;
+	left: 0;
+	height: 3px;
+	width: 100%;
+	background-color: #fff;
+	transform-origin: 0 0;
+}
+.ml1 .line1 {
+	top: 0;
+}
+.ml1 .line2 {
+	bottom: 0;
+}
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 58%;
+	transform: translate(-50%, -50%);
+	width: 53%;
+	font-size: 18px;
+}
+.ml16 {
+	color: #021D3A;
+	padding: 40px 0;
+	font-weight: 800;
+	font-size: 2em;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
+	overflow: hidden;
+}
+.ml16 .letter {
+	display: inline-block;
+	line-height: 1em;
+}
+.sec-text {
+	top: 45%;
+	left: 45%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	width: 75%;
+	font-size: 26px;
+}
+.letters {
+	color: #07294D;
+	font-size: 44px;
+}
+.third-text {
+	top: 80%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	width: 75%;
+	font-size: 24px;
+}
+.ml10 {
+	position: relative;
+	font-weight: 900;
+	font-size: 4em;
+}
+.ml10 .text-wrapper {
+	position: relative;
+	display: inline-block;
+	padding-top: 0.2em;
+	padding-right: 0.05em;
+	padding-bottom: 0.1em;
+	overflow: hidden;
+}
+.ml10 .letter {
+	display: inline-block;
+	line-height: 1em;
+    transform-origin: 0 0;}
+
+.topnav{ display: none;}
+
+.mobile-edit{ display: none;}
+
+/* Resposive Design Media */
+
+@media (min-width:360px) and (max-width:745px){
+.timing p{padding:0px !important;
+text-align:left;}
+
+.inr-txt{width:280px !important;
+margin-top:10px !important;}
+.inr-txt p{ width:100% !important;}
+
+.button{display:block;
+    position: absolute;
+    top:-80px;
+    left: 180px;}
+
+    .inner-head{ width: 45px;
+    margin-bottom: 20px;}
+
+    .institute{ width:180px;}
+
+    .institute img{ width:180px;}
+
+    /* Mobile Nav bar*/
+    .mobile-container {
+  max-width: 480px;
+  margin: auto;
+  background-color: coral;
+  height: 500px;
+  color: white;
+  border-radius: 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:#FFCD00;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color:black;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: 17px;
+  display: block;
+font-weight: 600;
+}
+
+    .topnav a :first-child{ color: white;}
+.topnav a.icon {
+  background:#07294D;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+
+
+.active {
+  background-color:white;
+  color: white;
+    height:55px;}
+
+    .active:hover{background-color: white;}
+    .topnav{ display: block;}
+
+    .navigation{ display: none;}
+
+    .main-slider{ display: none;}
+
+    #myLinks li:hover{ background-color: #07294D}
+
+    #myLinks li a:hover{ color: white;
+    margin-left: 10px;}
+
+
+    #myLinks li{ transition: all ease-in-out .2s }
+
+    #myLinks li a{transition: all ease-in-out .3s}
+
+    .topnav { border-bottom: 1px solid black}
+
+
+    .container-fluid{background: none;  }
+
+    .card{ margin-left:12%;
+		margin-bottom: 15px;}
+
+
+		.float-right{ clear: both;
+		float: none;
+	text-align: left; !important}
+last-span{ text-align: left; !important}
+
+
+}
+
+
+
+
+/*   Responsive Tablet      */
+
+@media (min-width:768px) and (max-width:1024px){
+.timing p{padding:0px !important;
+text-align:left;}
+
+.inr-txt{width:280px !important;
+margin-top:10px !important;}
+.inr-txt p{ width:100% !important;}
+
+.button{display:block;
+    position: absolute;
+    top:-80px;
+    left: 180px;}
+
+    .inner-head{ width: 45px;
+    margin-bottom: 20px;}
+
+    .institute{ width:180px;}
+
+    .institute img{ width:180px;}
+
+    /* Mobile Nav bar*/
+    .mobile-container {
+  max-width: 480px;
+  margin: auto;
+  background-color: coral;
+  height: 500px;
+  color: white;
+  border-radius: 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:#FFCD00;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color:black;
+  padding: 14px 16px;
+  text-decoration:none;
+  font-size: 17px;
+  display: block;
+font-weight: 600;
+}
+
+    .topnav a :first-child{ color: white;}
+.topnav a.icon {
+  background:#07294D;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+
+
+.active {
+  background-color:white;
+  color: white;
+    height:55px;}
+
+    .active:hover{background-color: white;}
+    .topnav{ display: block;}
+
+    .navigation{ display: none;}
+
+    .main-slider{ display: none;}
+
+    #myLinks li:hover{ background-color: #07294D}
+
+    #myLinks li a:hover{ color: white;
+    margin-left: 10px;}
+
+
+    #myLinks li{ transition: all ease-in-out .2s }
+
+    #myLinks li a{transition: all ease-in-out .3s}
+
+    .topnav { border-bottom: 1px solid black}
+
+
+    .container-fluid{background: none;  }
+
+    .card{ margin-left:12%;
+		margin-bottom: 15px;}
+
+
+		.float-right{ clear: both;
+		float: none;
+	text-align: left; !important}
+last-span{ text-align: left; !important}
+
+
+}

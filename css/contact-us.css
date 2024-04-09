@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.col-lg-8 h2{ font-weight:400;}
+
+.col-lg-8 h2 span{ border-bottom:3px solid #FFC600;}
+
+form{ margin:40px 0px 0px 0px;}
+
+input{ margin:20px 0px 20px 0px;
+line-height:40px;
+width:100%;}
+
+.col-lg-8 p{margin:20px 0px 0px 0px;}
+
+.col-lg-4 h2{ font-weight:400;}
+
+.col-lg-4 p{ font-weight:200;
+text-height:40px;
+font-size:18px;} 
+
+iframe{ width:100%;}

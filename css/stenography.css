@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.steno{ margin-top:15px;
+color:rgba(73,73,73,1.00);}
+
+.headings{ color:#07294D;
+font-weight:600;
+font-variant:small-caps;}
+
+.section h4{ font-variant:small-caps;}
